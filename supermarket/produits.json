@@ -14,13 +14,7 @@
           "prix": 4999.99,
           "image": "iphone.jpg"
       },
-      {
-          "id": 3,
-          "nom": "Watch Connectée",
-          "description": "montre connectée avec cardiofréquencemètre",
-          "prix": 1290.99,
-          "image": "watchii.jpeg"
-      },
+      
       {
           "id": 4,
           "nom": "Sac à dos",
