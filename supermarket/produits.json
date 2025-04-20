@@ -50,29 +50,23 @@
           "prix": 499.99,
           "image": "disk.jpeg"
       },
+     
       {
-          "id": 9,
-          "nom": "Flash drive",
-          "description": "clé USB 64Go",
-          "prix": 99.99,
-          "image": "watchii.jpeg"
-      },
-      {
-            "id": 10,
+            "id": 9,
             "nom": "Casque audio",
             "description": "casque audio sans fil",
             "prix": 499.99,
             "image": "casqque.png"
       },
       {
-            "id": 11,
+            "id": 10,
             "nom": "Enceinte Bluetooth",
             "description": "Enceinte Bluetooth portable",
             "prix": 299.99,
             "image": "jjbl.png"
       },
       {
-            "id": 12,
+            "id": 11,
             "nom": "Chargeur portable",
             "description": "Chargeur portable 20000mAh",
             "prix": 399.99,
