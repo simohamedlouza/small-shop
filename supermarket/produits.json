@@ -1,0 +1,88 @@
+{
+  "produits": [
+      {
+          "id": 1,
+          "nom": "Ordinateur portable",
+          "description": "LAPTOP 15 pouces, 8Go de RAM, SSD 256Go, processeur i7",
+          "prix": 7999.99,
+          "image": "laptop.jpeg"
+      },
+      {
+          "id": 2,
+          "nom": "Iphone",
+          "description": "IPHONE , 4Go de RAM, 64Go",
+          "prix": 4999.99,
+          "image": "iphone.jpg"
+      },
+      {
+          "id": 3,
+          "nom": "Watch Connectée",
+          "description": "montre connectée avec cardiofréquencemètre",
+          "prix": 1290.99,
+          "image": "watchii.jpeg"
+      },
+      {
+          "id": 4,
+          "nom": "Sac à dos",
+          "description": "sac à dos pour ordinateur portable",
+          "prix": 199.99,
+          "image": "liver.jpeg"
+      },
+      {
+          "id": 5,
+          "nom": "souris sans fil",
+          "description": "souris sans fil pour ordinateur portable",
+          "prix": 300.99,
+          "image": "sousou.jpeg"
+      },
+      {
+          "id": 6,
+          "nom": "clavier sans fil",
+          "description": "clavier sans fil pour ordinateur portable",
+          "prix": 490.99,
+          "image": "clavier.jpeg"
+      },
+      {
+          "id": 7,
+          "nom": "imprimante",
+          "description": "imprimante laser couleur",
+          "prix": 2990.99,
+          "image": "impri.jpeg"
+      },
+      {
+          "id": 8,
+          "nom": "disque dur externe",
+          "description": "disque dur externe 1To",
+          "prix": 499.99,
+          "image": "disk.jpeg"
+      },
+      {
+          "id": 9,
+          "nom": "Flash drive",
+          "description": "clé USB 64Go",
+          "prix": 99.99,
+          "image": "Flash-drive.jpeg"
+      },
+      {
+            "id": 10,
+            "nom": "Casque audio",
+            "description": "casque audio sans fil",
+            "prix": 499.99,
+            "image": "casqque.png"
+      },
+      {
+            "id": 11,
+            "nom": "Enceinte Bluetooth",
+            "description": "Enceinte Bluetooth portable",
+            "prix": 299.99,
+            "image": "jjbl.png"
+      },
+      {
+            "id": 12,
+            "nom": "Chargeur portable",
+            "description": "Chargeur portable 20000mAh",
+            "prix": 399.99,
+            "image": "chacha.png"
+      }
+  ]
+}
