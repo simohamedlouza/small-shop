@@ -5,4 +5,4 @@ This is a small Project idea (small Store Producte)
 
 
 
-<img src="https://i.ibb.co/k6MfLR3m/Capture-d-cran-2026-01-13-172705.png" alt="Image_project" width="300px" height="200px">
+<img src="https://raw.githubusercontent.com/simohamedlouza/small-shop/refs/heads/main/Capture%20d'%C3%A9cran%202026-01-13%20172708.png" alt="Image_project" >
